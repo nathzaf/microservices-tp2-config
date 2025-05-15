@@ -1,6 +1,2 @@
-spring:
-  application:
-    name: product-composition-service
-
 server:
   port: 8080
